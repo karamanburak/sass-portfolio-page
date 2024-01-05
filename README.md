@@ -16,7 +16,7 @@
 ├── scss
 │   ├── abstracts
 |       ├── _mixins.scss
-|       └── _vaiables.scss
+|       └── _variables.scss
 │   ├── base
 |       ├──_reset.scss
 │   ├── components
