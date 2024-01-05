@@ -2,6 +2,7 @@
 
 #Directory Structure
 
+```
 SASS-Portfolio-Page
 |
 |----css/
@@ -30,3 +31,5 @@ SASS-Portfolio-Page
 |----LICENSE
 |----projects.html
 |----README.md
+
+```
