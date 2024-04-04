@@ -2,7 +2,7 @@
 
 ---
 
-- <a href="https://karamanburak.github.io/SASS-Portfolio-Page/" rel="noFollow">Access the finished project online</a>
+- <a href="https://karamanburak.github.io/sass-portfolio-page/" rel="noFollow">Access the finished project online</a>
 
 ---
 
